@@ -1,0 +1,38 @@
+
+body {
+  background-image: url("https://i.imgur.com/MD3xm99.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.content {
+      width: 400px;
+   line-height:100px;
+   margin: auto;
+
+  color: white;
+}
+  .line {
+  width: 700px;
+  height: 4px;
+  background: orange;
+  margin: 0.65em auto;
+  border-radius: 4px;
+}
+
+.button {
+  display: inline-block;
+
+  border: solid 10px white;
+  color: white;
+  border-radius: 10px;
+
+  padding: 10px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.black_button {
+  background-color: white;
+  color: grey;
+  border: solid 10px white;
+}
